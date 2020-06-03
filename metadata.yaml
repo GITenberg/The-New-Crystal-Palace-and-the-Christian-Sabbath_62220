@@ -1,0 +1,23 @@
+_repo: The-New-Crystal-Palace-and-the-Christian-Sabbath_62220
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weir, John
+    gutenberg_agent_id: '51835'
+    url: http://www.gutenberg.org/2009/agents/51835
+description: ''
+gutenberg_issued: '2020-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62220'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crystal Palace (Sydenham, London, England)'
+- !lcc 'BV'
+- !lcsh 'Sunday'
+- GITenberg
+title: The New Crystal Palace and the Christian Sabbath
+url: http://www.gutenberg.org/ebooks/62220
